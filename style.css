@@ -1,0 +1,9 @@
+textarea {
+    width: 100%;
+    display: block;
+  }
+  input{
+    background-color: #eee;
+    padding: 0.5em;
+  }
+  
